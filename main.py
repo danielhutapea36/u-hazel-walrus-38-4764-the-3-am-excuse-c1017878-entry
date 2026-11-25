@@ -20,6 +20,7 @@ import sys
 # The excuse in two clauses, joined with a single space. The first
 # clause sets up the wallet's filing system; the second delivers the
 # refusal. Neither clause is funny alone — the turn is the joke.
+# The em dash (U+2014) is one character; the whole line is 97.
 _CLAUSES = (
     "My secure element files 3 AM under 'you, but sleep-deprived' \u2014",
     "and it won't sign for that person.",
